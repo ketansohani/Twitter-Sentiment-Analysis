@@ -33,9 +33,9 @@ Models trained:
 
 ### Results:
 Logistic Regression:  
-F1 Score: 0.49763033175355453
-Accuracy: 0.9469403078463271
+F1 Score: 0.49763033175355453  
+Accuracy: 0.9469403078463271  
 
-Decision Tree:
-F1 Score: 0.4948453608247423
+Decision Tree:  
+F1 Score: 0.4948453608247423  
 Accuracy: 0.9264172193717932
